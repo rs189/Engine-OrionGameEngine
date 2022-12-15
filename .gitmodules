@@ -1,0 +1,4 @@
+[submodule "WickedEngine"]
+	path = WickedEngine
+	url = https://github.com/turanszkij/WickedEngine
+	branch = master
